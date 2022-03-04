@@ -10,6 +10,6 @@ To collect data about a team and dump a json file (must have created a ``./teams
 
 The second part is to analyze the dataset to understand what I can do with it.
 
-![Correlation Matrix](https://github.com/alexattia/Data-Science-Projects/blob/master/pics/psg_stats.png)
+![Screenshot](./soccer.png)
 
-![PSG vs Saint-Etienne](https://github.com/alexattia/Data-Science-Projects/blob/master/pics/psg_ste.png)
+![Screenshot](./soccer2.png)
